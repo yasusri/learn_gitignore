@@ -1,1 +1,3 @@
 Hi, I am editing new-file.txt
+
+One more edit
